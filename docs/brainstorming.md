@@ -1,5 +1,8 @@
 
-# Brainstorming
+Brainstorming
+===
+
+###### tags: `Brainstorming`, `Research`, `Business`
 
 - Angebot und Nachfrage muss einfach gematcht werden, evtl. über Standardisierung der Profession (Servicekraft, Verkäufer etc.)
 - Problem in Deutschland ist Regulierung, daher noch kein Markteintritt von coople ABER Corona-Krise öffnet Raum für neue Regelung
