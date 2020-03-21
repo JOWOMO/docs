@@ -23,10 +23,17 @@ Unsere Dokumentation liegt versioniert in GitHub. Damit man das bequem zusammen 
 
 | What | Link | Comments 
 | -------- | -------- | -------- |
-| Brainstroming | [Ideensammlung](https://hackmd.io/@mskg/BkZx7RGIU/edit) |
-| Market Research | [Notizen](https://hackmd.io/@mskg/HysxVAz88/edit) |
+| Brainstroming | [Ideesammlung](https://hackmd.io/@mskg/BkZx7RGIU/edit) | --
+| Market Research | [Notizen](https://hackmd.io/@mskg/HysxVAz88/edit) | --
 | Challenges | [Notizen](https://hackmd.io/@mskg/rJV8NAMUL/edit) | rechtlich, regulatorisch
-| Kickoff 2020-03-20 22:00 | [Meeting Minutes](https://hackmd.io/@mskg/HkpzeRMII/edit) |
+| Frontend | [Ideesammlung](https://hackmd.io/@mskg/HyFWRCfLU/edit) | --
+| Backed | [Ideesammlung](https://hackmd.io/@mskg/ryIjCRM8I/edit) | --
+
+
+| Meeting | Minuntes | Comments 
+| -------- | -------- | -------- |
+| Kickoff | [Meeting Minutes](https://hackmd.io/@mskg/HkpzeRMII/edit) | --
+| Samstag Morgen | [Meeting Minutes](https://hackmd.io/@mskg/BktcuCMIL/edit) | --
 
 
 ## Orga
