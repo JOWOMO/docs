@@ -4,11 +4,7 @@
 
 **Wir bauen eine digitale Plattform für flexibles on-demand Jobleasing. Wir möchten Unternehmen eine einfache, digitale Lösung anbieten, temporäre Personalengpässe oder Überkapazitäten untereinander auszugleichen und so Produktivität und Arbeitsplätze zu sichern.**
 
-## Ein kurzer Überblick
-
-<p>
-<iframe width="720" height="405" src="https://www.youtube.com/embed/fmMYhITmLzg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[Den besten Überblick bekommt Ihr mit unsere YouTube Video](https://www.youtube.com/embed/fmMYhITmLzg)
 
 ## Die wichtigsten Links
 * [Devpost](https://devpost.com/software/algorithm-based-employee-exchange-platform)
