@@ -4,6 +4,7 @@
 
 **Wir bauen eine digitale Plattform für flexibles on-demand Jobleasing. Wir möchten Unternehmen eine einfache, digitale Lösung anbieten, temporäre Personalengpässe oder Überkapazitäten untereinander auszugleichen und so Produktivität und Arbeitsplätze zu sichern.**
 
+[Fragen und Antworten Q&A](https://hackmd.io/@mskg/rJrkK3EIU/edit)
 
 ## Tools
 
@@ -11,10 +12,16 @@ Tools die wir die nächsten zwei Tage zusammen verwenden.
 
 | Tool | URL
 | -------- | -------- |
-| Telco | https://meet.jit.si/Hackathon
+| Telco All | https://meet.jit.si/Hackathon
+| Telco Tech | https://meet.jit.si/Bee2BeeTech
+| Telco Backend | https://meet.jit.si/Bee2BeeBackend
+| Telco Frontend | https://meet.jit.si/Bee2BeeFrontend
+| Telco Marktrechereche | https://meet.jit.si/Bee2BeeMarketResearch
 | GitHub |https://github.com/mskg/algorithm-based-employee-exchange
 | Slack | [#1_003_exchange_platform](https://wirvsvirus.slack.com/archives/G010FSEDDM3)
 | Devpost | https://devpost.com/software/algorithm-based-employee-exchange-platform/joins/WivMaDqiioBvIAYWFcKFhw
+| Deepl | https://www.deepl.com/translator
+| Hackathon Ressourcen | https://docs.google.com/document/d/1OGaIiPttegxlG7O0MOlluhlfUoHWOspfLxIvcD-LYg0/preview# |
 
 
 ## Dokumentation
@@ -28,13 +35,16 @@ Unsere Dokumentation liegt versioniert in GitHub. Damit man das bequem zusammen 
 | Challenges | [Notizen](https://hackmd.io/@mskg/rJV8NAMUL/edit) | rechtlich, regulatorisch
 | Frontend | [Ideesammlung](https://hackmd.io/@mskg/HyFWRCfLU/edit) | --
 | Backed | [Ideesammlung](https://hackmd.io/@mskg/ryIjCRM8I/edit) | --
+| Pitchdeck | [Pitchdeck](https://1drv.ms/p/s!AsZhgWk9zfG4lF2aDvSL4ANLousm?e=TYsQ9N) | -- 
 
 
 | Meeting | Minuntes | Comments 
 | -------- | -------- | -------- |
 | Kickoff | [Meeting Minutes](https://hackmd.io/@mskg/HkpzeRMII/edit) | --
 | Samstag Morgen | [Meeting Minutes](https://hackmd.io/@mskg/BktcuCMIL/edit) | --
-
+| Abstimmung Entwicklung | [Meeting Minutes](https://hackmd.io/asdBTS0zQuig5Yrf8jqj1Q?edit) | --
+| Samstag Abend | [Meeting Minutes](https://hackmd.io/@mskg/BkoxGRm88/edit) | --
+| Sonntag Morgen | [Meeting Minutes](https://hackmd.io/@mskg/ryZBuqEI8/edit) | --
 
 ## Orga
 
@@ -42,13 +52,13 @@ Ein bischen Organisation muss sein :)
 
 | Team | Lead | Mitglieder
 | ------------- | ---------------- | ------ |
-| Business      | Baha Jamous      | Dilara Erdem, Valentin Trettel, Claudia Hillebrand |
+| Business      | Baha Jamous      | Dilara Erdem, Valentin Trettel, Claudia Hillebrand, Miriam Beier |
 | Frontend      | Sebastian Baar   | Sebastian Wegscheider, Maxim Wandrowski, Sebastian Soherr (Android), Merthan Erdem |
-| Backend       | Vinzenz Sinapius | Kialian Gaß, Marcel Pollak, Sigmund Zhang, Stephan Ferenz |
+| Backend       | Vinzenz Sinapius | Kialian Gaß, Marcel Pollak, Sigmund Zhang, Stephan Ferenz, Franz, Philippe |
 | DevOps        | Vinzenz Sinapius | -- |
 | Gesamtorga  | Markus Kling     | Paul Hendrik |
 | Devpost       | Merthan Erdem    | -- |
-| Kommunikation | Baha Jamous      | Miriam Beier |
+| Kommunikation | Baha Jamous      | --
 
 
 ## Team
@@ -74,6 +84,7 @@ Die vielen kreativen Köpfe hinter dieser großartigen Idee.
 | Sebastian Wegscheider | Frontend Developer          | Python, Html, Matlab, Indesign, Photoshop |
 | Adrian Stobbe         | Developer                   | Python, C++|
 | Sigmund Zhang         | Backend Developer           | Java/Scala/Js/AWS/Cassandra|
-| Miriam Beier          | Kommunikation, Personal- & Strategieentwicklung | Projektmanagement, Prozessoptimierung & Ideenentwicklung (Desgin Thinking)
+| Miriam Beier          | interne Kommunikation, Personal- & Strategieentwicklung | Projektmanagement, Prozessoptimierung & Ideenentwicklung (Desgin Thinking)
 | Philippe              | connoisseur of the art of living | Programming... 
+| Franz                 | Data Scientist, Developer   | Python (Numpy, Pandas, sklearn, tensorflow) |
 
